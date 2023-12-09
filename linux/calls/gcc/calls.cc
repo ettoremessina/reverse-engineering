@@ -74,7 +74,7 @@ long f7(long a, long b, long c, long d, long e, long f, long g)
 
 long f8(long a, long b, long c, long d, long e, long f, long g, long h)
 {
-	std::cout << "f7(" 
+	std::cout << "f8(" 
 		<< a << ", " 
 		<< b << ", " 
 		<< c << ", " 
@@ -82,6 +82,7 @@ long f8(long a, long b, long c, long d, long e, long f, long g, long h)
 		<< e << ", " 
 		<< f << ", " 
 		<< g << ")" 
+		<< h << ")" 
 		<< std::endl;
 	return a + b + c + d + e + f + g;
 }
