@@ -84,7 +84,7 @@ long f8(long a, long b, long c, long d, long e, long f, long g, long h)
 		<< g << ", " 
 		<< h << ")" 
 		<< std::endl;
-	return a + b + c + d + e + f + g;
+	return a + b + c + d + e + f + g + h;
 }
 
 int main()
