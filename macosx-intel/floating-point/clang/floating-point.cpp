@@ -64,6 +64,7 @@ int main()
 		<< sizeof(double)
 		<< std::endl
 		<< sizeof(long double)
+		<< std::endl
 		<< "fs=" << fs 
 		<< std::endl
 		<< "ds=" << ds 
